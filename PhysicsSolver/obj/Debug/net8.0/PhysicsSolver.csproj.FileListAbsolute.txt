@@ -1,0 +1,15 @@
+C:\Dev\C#\PhysicsSolver\PhysicsSolver\obj\Debug\net8.0\PhysicsSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C#\PhysicsSolver\PhysicsSolver\obj\Debug\net8.0\PhysicsSolver.AssemblyInfoInputs.cache
+C:\Dev\C#\PhysicsSolver\PhysicsSolver\obj\Debug\net8.0\PhysicsSolver.AssemblyInfo.cs
+C:\Dev\C#\PhysicsSolver\PhysicsSolver\obj\Debug\net8.0\PhysicsSolver.csproj.CoreCompileInputs.cache
+C:\Dev\C#\PhysicsSolver\PhysicsSolver\bin\Debug\net8.0\PhysicsSolver.exe
+C:\Dev\C#\PhysicsSolver\PhysicsSolver\bin\Debug\net8.0\PhysicsSolver.deps.json
+C:\Dev\C#\PhysicsSolver\PhysicsSolver\bin\Debug\net8.0\PhysicsSolver.runtimeconfig.json
+C:\Dev\C#\PhysicsSolver\PhysicsSolver\bin\Debug\net8.0\PhysicsSolver.dll
+C:\Dev\C#\PhysicsSolver\PhysicsSolver\bin\Debug\net8.0\PhysicsSolver.pdb
+C:\Dev\C#\PhysicsSolver\PhysicsSolver\obj\Debug\net8.0\PhysicsSolver.dll
+C:\Dev\C#\PhysicsSolver\PhysicsSolver\obj\Debug\net8.0\refint\PhysicsSolver.dll
+C:\Dev\C#\PhysicsSolver\PhysicsSolver\obj\Debug\net8.0\PhysicsSolver.pdb
+C:\Dev\C#\PhysicsSolver\PhysicsSolver\obj\Debug\net8.0\PhysicsSolver.genruntimeconfig.cache
+C:\Dev\C#\PhysicsSolver\PhysicsSolver\obj\Debug\net8.0\ref\PhysicsSolver.dll
+C:\Dev\C#\PhysicsSolver\PhysicsSolver\obj\Debug\net8.0\PhysicsSolver.sourcelink.json
